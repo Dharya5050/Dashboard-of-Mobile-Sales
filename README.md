@@ -1,6 +1,6 @@
 # 📊 Mobile Sales Dashboard
 
-This project presents a **Sales Dashboard for a Mobile Company**, developed using **Power BI** and **Excel**. It provides a comprehensive overview of key sales metrics and business insights by leveraging **Power Query Editor** for data transformation and **DAX** for powerful calculations.
+This project presents a **Sales Dashboard for a Mobile Company**, developed using **Power BI** and **Excel**. It provides a comprehensive overview of key sales metrics and business insights by leveraging **Power Query Editor** for data transformation and **DAX** for powerful calculations. Here is the link :https://app.powerbi.com/groups/me/reports/4397b03b-60bc-433a-b708-050d57e23687/c4bdda8b04a618651fa8?experience=power-bi
 
 ---
 
